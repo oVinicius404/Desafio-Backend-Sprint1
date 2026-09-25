@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "desafio_backend_sprint1_Vinícius da Hora de Castro/1.0.0": {
+        "runtime": {
+          "desafio_backend_sprint1_Vinícius da Hora de Castro.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "desafio_backend_sprint1_Vinícius da Hora de Castro/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

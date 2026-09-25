@@ -1,0 +1,14 @@
+{
+  "profiles": {
+    "desafio_backend_sprint1_Vinícius da Hora de Castro": {
+      "commandName": "Project",
+      "sqlDebugging": false,
+      "jsWebView2Debugging": false,
+      "remoteDebugEnabled": true
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    }
+  }
+}
