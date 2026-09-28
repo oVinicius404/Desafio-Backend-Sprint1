@@ -8,6 +8,20 @@ namespace desafio_backend_sprint1_Vinícius_da_Hora_de_Castro
         {
             Console.OutputEncoding = System.Text.Encoding.UTF8;
 
+            //Alunos e Notas
+            Dictionary<string, Aluno> Alunos = new Dictionary<string, Aluno>();
+            Alunos.Add("Hermione Granger", new Aluno("Hermione Granger", "Grifinória", new List<double> { 9, 8.5, 10 }));
+            Alunos.Add("Harry Potter", new Aluno("Harry Potter", "Grifinória", new List<double> { 8, 6.5, 8.5 }));
+            Alunos.Add("Draco Malfoy", new Aluno("Draco Malfoy", "Sonserina", new List<double> { 7, 8.5, 8 }));
+            Alunos.Add("Cedrico Diggory", new Aluno("Cedrico Diggory", "Lufa-Lufa", new List<double> { 9, 7.5, 8 }));
+
+            //Professores, Disciplinas
+            Dictionary<string, Professor> Professores = new Dictionary<string, Professor>();
+            Professores.Add("Severus Snape", new Professor("Severus Snape", "Sonserina", "Poções", 8000));
+            Professores.Add("Fílio Flitwick", new Professor("Fílio Flitwick", "Corvinal", "Feitiços", 800));
+            Professores.Add("Minerva McGonagall", new Professor("Minerva McGonagall", "Grifinória", "Transfiguração", 7500));
+            Professores.Add("Pomona Sprout", new Professor("Pomona Sprout", "Lufa-Lufa", "Herbologia", 75000));
+
             void MostrarLogo()
             {
                 Console.WriteLine(@"
@@ -43,15 +57,16 @@ namespace desafio_backend_sprint1_Vinícius_da_Hora_de_Castro
 
             void MostrarMenuInicial()
             {
-                Console.WriteLine("\nBem vindo ao sistema acadêmico de Hogwarts!");
+                Console.WriteLine("\nBem vindo ao sistema acadêmico de Hogwarts!\n");
 
                 Console.WriteLine("1 - Cadastrar Professor");
                 Console.WriteLine("2 - Cadastrar Aluno");
-                Console.WriteLine("3 - Ver relação de alunos");
-                Console.WriteLine("4 - Ver relação de professores");
-                Console.WriteLine("5 - Sair");
+                Console.WriteLine("3 - Ver relação de professores e alunos");
+                Console.WriteLine("4 - Pagar salário de professor");
+                Console.WriteLine("5 - Pontuar aluno");
+                Console.WriteLine("6 - Sair");
 
-                Console.Write("\nDigite sua escolha: ");
+                Console.Write("\nO que deseja fazer?(1 - 6): ");
                 string OpcaoEscolhida = Console.ReadLine()!;
                 int OpcaoEscolhidaNumerica = int.Parse(OpcaoEscolhida);
 
@@ -63,6 +78,10 @@ namespace desafio_backend_sprint1_Vinícius_da_Hora_de_Castro
                     case 2:
                         OpcaoAluno();
                         break;
+                    case 3: Relacao();
+                        break;
+                    case 4: PagarSalario();
+                        break; 
                     default:
                         Console.WriteLine("Opção inválida. Por favor, escolha 1 para Aluno ou 2 para Professor.");
                         break;
@@ -128,16 +147,13 @@ namespace desafio_backend_sprint1_Vinícius_da_Hora_de_Castro
                         break;
                 }
 
-                Console.Write("\nDigite as disciplinas que o professor leciona: ");
+                Console.Write("\nDigite a disciplina que o professor leciona: ");
                 professor1.Disciplinas = Console.ReadLine()!;
-
-                Console.Write("Digite o salário do professor (R$): ");
-                professor1.Salario = double.Parse(Console.ReadLine()!);
 
                 Console.WriteLine($"\nProfessor(a) {professor1.Nome} cadastrado(a) com sucesso!\n");
                 professor1.LancarFeitico();
 
-                Thread.Sleep(4000);
+                Thread.Sleep(5000);
                 Console.Clear();
                 MostrarLogo();
                 MostrarImagemHog();
@@ -171,7 +187,7 @@ namespace desafio_backend_sprint1_Vinícius_da_Hora_de_Castro
 ⠀⠀⠀ ⠈⠢⡉⠳⠦⠄⡀⠀⠀⠄⠀⠀⠀⠀⠁⢀⣠⣖⡉⠀⠀⣀⣀⣄⠠⠤⠤⠶⠤⠤⠤⠤⠖⠒⠉⠀⠀
 ⠀⠀⠀⠀⠀⠀⡈⠑⠦⠄⢀⣨⣀⣈⡡⠤⠴⠒⠊⡉⠀⠈⠉⠉⠉⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀");
 
-                Aluno aluno1 = new Aluno(string.Empty, string.Empty, 0, 0);
+                Aluno aluno1 = new Aluno(string.Empty, string.Empty, new List<double>());
                 Console.Write("\nDigite o nome do aluno: ");
                 aluno1.Nome = Console.ReadLine()!;
 
@@ -203,16 +219,54 @@ namespace desafio_backend_sprint1_Vinícius_da_Hora_de_Castro
                         break;
                 }
 
-                Console.Write("\nDigite as notas do aluno no último semestre: ");
-
                 Console.WriteLine($"\nAluno(a) {aluno1.Nome} cadastrado(a) com sucesso!\n");
                 aluno1.LancarFeitico();
 
-                Thread.Sleep(4000);
+                Thread.Sleep(5000);
                 Console.Clear();
                 MostrarLogo();
                 MostrarImagemHog();
                 MostrarMenuInicial();
+            }
+
+            void Relacao()
+            {
+                Console.Clear();
+                Console.WriteLine("Relação de Bruxos e Bruxas de Hogwarts\n");
+                Console.WriteLine(@"
+█▀█ █▀█ █▀█ █▀▀ █▀▀ █▀ █▀ █▀█ █▀█ █▀▀ █▀
+█▀▀ █▀▄ █▄█ █▀░ ██▄ ▄█ ▄█ █▄█ █▀▄ ██▄ ▄█");
+                Console.WriteLine("\n");
+                foreach (var infos in Professores)
+                {
+                    Professor p = infos.Value;
+                    Console.WriteLine($"{p.Nome} | Casa: {p.Casa} | Disciplina: {p.Disciplinas} | Salário: {p.Salario}");
+                }
+                Console.WriteLine("\n");
+
+                Console.WriteLine(@"
+▄▀█ █░░ █░█ █▄░█ █▀█ █▀
+█▀█ █▄▄ █▄█ █░▀█ █▄█ ▄█");
+                Console.WriteLine("\n");
+                foreach (var infos in Alunos)
+                {
+                    Aluno a = infos.Value;
+                    Console.WriteLine($"{a.Nome} | Casa: {a.Casa} | Notas: {string.Join(", ", a.Notas)} | Média: {a.Media:F2}");
+                    
+                    Console.WriteLine("\nDigite qualquer tecla para voltar...");
+                    Console.ReadKey();
+                    Console.Clear();
+                    MostrarLogo();
+                    MostrarImagemHog();
+                    MostrarMenuInicial();
+                }
+            }
+
+            void PagarSalario()
+            {
+                Console.Clear();
+                Console.WriteLine("Pagamento de Salário de Professores\n");
+                Console.WriteLine(@"");
             }
 
             //casas de Hogwarts

@@ -8,7 +8,7 @@ namespace desafio_backend_sprint1_Vinícius_da_Hora_de_Castro
     {
         public string Nome { get; set; }
         public string Casa { get; set; }
-        public double Notas { get; set; }
+        public List<double> Notas { get; set; } = new List<double>();
         public double Media { get; set; }
         public void LancarFeitico()
         {
@@ -22,12 +22,12 @@ namespace desafio_backend_sprint1_Vinícius_da_Hora_de_Castro
       しーーＪ  ");
         }
 
-        public Aluno(string nome, string casa, double media, double notas)
+        public Aluno(string nome, string casa, List<double> notas)
         {
             Nome = nome;
             Casa = casa;
             Notas = notas;
-            Media = media;
+            Media = notas.Count > 0 ? notas.Average() : 0;
         }
     }
 }
