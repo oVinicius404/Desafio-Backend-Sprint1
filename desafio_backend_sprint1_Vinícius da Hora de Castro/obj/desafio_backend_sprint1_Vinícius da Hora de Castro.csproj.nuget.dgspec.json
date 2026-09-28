@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Cliente\\source\\repos\\Desafio-Backend-Sprint1\\desafio_backend_sprint1_Vinícius da Hora de Castro\\desafio_backend_sprint1_Vinícius da Hora de Castro.csproj": {}
+    "C:\\Users\\232.001625\\source\\repos\\Desafio-Backend-Sprint1\\desafio_backend_sprint1_Vinícius da Hora de Castro\\desafio_backend_sprint1_Vinícius da Hora de Castro.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Cliente\\source\\repos\\Desafio-Backend-Sprint1\\desafio_backend_sprint1_Vinícius da Hora de Castro\\desafio_backend_sprint1_Vinícius da Hora de Castro.csproj": {
+    "C:\\Users\\232.001625\\source\\repos\\Desafio-Backend-Sprint1\\desafio_backend_sprint1_Vinícius da Hora de Castro\\desafio_backend_sprint1_Vinícius da Hora de Castro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Cliente\\source\\repos\\Desafio-Backend-Sprint1\\desafio_backend_sprint1_Vinícius da Hora de Castro\\desafio_backend_sprint1_Vinícius da Hora de Castro.csproj",
+        "projectUniqueName": "C:\\Users\\232.001625\\source\\repos\\Desafio-Backend-Sprint1\\desafio_backend_sprint1_Vinícius da Hora de Castro\\desafio_backend_sprint1_Vinícius da Hora de Castro.csproj",
         "projectName": "desafio_backend_sprint1_Vinícius da Hora de Castro",
-        "projectPath": "C:\\Users\\Cliente\\source\\repos\\Desafio-Backend-Sprint1\\desafio_backend_sprint1_Vinícius da Hora de Castro\\desafio_backend_sprint1_Vinícius da Hora de Castro.csproj",
-        "packagesPath": "C:\\Users\\Cliente\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Cliente\\source\\repos\\Desafio-Backend-Sprint1\\desafio_backend_sprint1_Vinícius da Hora de Castro\\obj\\",
+        "projectPath": "C:\\Users\\232.001625\\source\\repos\\Desafio-Backend-Sprint1\\desafio_backend_sprint1_Vinícius da Hora de Castro\\desafio_backend_sprint1_Vinícius da Hora de Castro.csproj",
+        "packagesPath": "C:\\Users\\232.001625\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\232.001625\\source\\repos\\Desafio-Backend-Sprint1\\desafio_backend_sprint1_Vinícius da Hora de Castro\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Cliente\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\232.001625\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -46,7 +46,7 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.400"
+        "SdkAnalysisLevel": "10.0.300"
       },
       "frameworks": {
         "net10.0": {
@@ -68,7 +68,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.301/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",

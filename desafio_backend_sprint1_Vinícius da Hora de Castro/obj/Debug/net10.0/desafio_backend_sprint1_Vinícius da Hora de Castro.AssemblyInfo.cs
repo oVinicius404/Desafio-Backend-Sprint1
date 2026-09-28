@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("desafio_backend_sprint1_Vinícius da Hora de Castro")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a889be30ada6db0e43d4871d2383a959d6ded080")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bc109d2850a704921b96d801ffa88b1096d16d46")]
 [assembly: System.Reflection.AssemblyProductAttribute("desafio_backend_sprint1_Vinícius da Hora de Castro")]
 [assembly: System.Reflection.AssemblyTitleAttribute("desafio_backend_sprint1_Vinícius da Hora de Castro")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

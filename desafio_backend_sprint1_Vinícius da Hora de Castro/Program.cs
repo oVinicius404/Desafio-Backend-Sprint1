@@ -252,14 +252,14 @@ namespace desafio_backend_sprint1_Vinícius_da_Hora_de_Castro
                 {
                     Aluno a = infos.Value;
                     Console.WriteLine($"{a.Nome} | Casa: {a.Casa} | Notas: {string.Join(", ", a.Notas)} | Média: {a.Media:F2}");
-                    
+                }
                     Console.WriteLine("\nDigite qualquer tecla para voltar...");
                     Console.ReadKey();
                     Console.Clear();
                     MostrarLogo();
                     MostrarImagemHog();
                     MostrarMenuInicial();
-                }
+                
             }
 
             void PagarSalario()
