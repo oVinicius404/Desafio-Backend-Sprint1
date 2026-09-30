@@ -20,14 +20,24 @@ namespace desafio_backend_sprint1_Vinícius_da_Hora_de_Castro
 
         public override void LancarFeitico()
         {
-            Console.WriteLine($"O(a) aluno(a) {Nome} falhou em lançar um feitiço!");
-            Console.WriteLine(@"
-            ＜~ヽ、
-          　/　　＼
-          ,' ==＝=｀､
-        ＜__( ಥ︿ಥ)_＞ 
-          ⊂　　   つ━━💨...
-            しーーＪ  ");
+            Random random = new Random();
+            bool acertou = random.Next(2) == 1;
+
+            if (acertou)
+            {
+                base.LancarFeitico();
+            }
+            else
+            {
+                Console.WriteLine($"{Nome} falhou em lançar um feitiço!");
+                Console.WriteLine(@"
+    ＜~ヽ、
+  　/　　＼
+  ,' ==＝=｀､
+＜__( ಥ︿ಥ)_＞ 
+  ⊂　　   つ━━💨...
+    しーーＪ  ");
+            }
         }
         public Aluno(string nome, string casa, List<double> notas) : base(nome, casa)
         {

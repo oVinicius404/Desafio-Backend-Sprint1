@@ -1,45 +1,15 @@
-C:\Users\232.001625\source\repos\desafio_backend_sprint1_Vinícius da Hora de Castro\desafio_backend_sprint1_Vinícius da Hora de Castro\bin\Debug\net10.0\desafio_backend_sprint1_Vinícius da Hora de Castro.exe
-C:\Users\232.001625\source\repos\desafio_backend_sprint1_Vinícius da Hora de Castro\desafio_backend_sprint1_Vinícius da Hora de Castro\bin\Debug\net10.0\desafio_backend_sprint1_Vinícius da Hora de Castro.deps.json
-C:\Users\232.001625\source\repos\desafio_backend_sprint1_Vinícius da Hora de Castro\desafio_backend_sprint1_Vinícius da Hora de Castro\bin\Debug\net10.0\desafio_backend_sprint1_Vinícius da Hora de Castro.runtimeconfig.json
-C:\Users\232.001625\source\repos\desafio_backend_sprint1_Vinícius da Hora de Castro\desafio_backend_sprint1_Vinícius da Hora de Castro\bin\Debug\net10.0\desafio_backend_sprint1_Vinícius da Hora de Castro.dll
-C:\Users\232.001625\source\repos\desafio_backend_sprint1_Vinícius da Hora de Castro\desafio_backend_sprint1_Vinícius da Hora de Castro\bin\Debug\net10.0\desafio_backend_sprint1_Vinícius da Hora de Castro.pdb
-C:\Users\232.001625\source\repos\desafio_backend_sprint1_Vinícius da Hora de Castro\desafio_backend_sprint1_Vinícius da Hora de Castro\obj\Debug\net10.0\desafio_backend_sprint1_Vinícius da Hora de Castro.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\232.001625\source\repos\desafio_backend_sprint1_Vinícius da Hora de Castro\desafio_backend_sprint1_Vinícius da Hora de Castro\obj\Debug\net10.0\desafio_backend_sprint1_Vinícius da Hora de Castro.AssemblyInfoInputs.cache
-C:\Users\232.001625\source\repos\desafio_backend_sprint1_Vinícius da Hora de Castro\desafio_backend_sprint1_Vinícius da Hora de Castro\obj\Debug\net10.0\desafio_backend_sprint1_Vinícius da Hora de Castro.AssemblyInfo.cs
-C:\Users\232.001625\source\repos\desafio_backend_sprint1_Vinícius da Hora de Castro\desafio_backend_sprint1_Vinícius da Hora de Castro\obj\Debug\net10.0\desafio_backend_sprint1_Vinícius da Hora de Castro.csproj.CoreCompileInputs.cache
-C:\Users\232.001625\source\repos\desafio_backend_sprint1_Vinícius da Hora de Castro\desafio_backend_sprint1_Vinícius da Hora de Castro\obj\Debug\net10.0\desafio_backend_sprint1_Vinícius da Hora de Castro.dll
-C:\Users\232.001625\source\repos\desafio_backend_sprint1_Vinícius da Hora de Castro\desafio_backend_sprint1_Vinícius da Hora de Castro\obj\Debug\net10.0\refint\desafio_backend_sprint1_Vinícius da Hora de Castro.dll
-C:\Users\232.001625\source\repos\desafio_backend_sprint1_Vinícius da Hora de Castro\desafio_backend_sprint1_Vinícius da Hora de Castro\obj\Debug\net10.0\desafio_backend_sprint1_Vinícius da Hora de Castro.pdb
-C:\Users\232.001625\source\repos\desafio_backend_sprint1_Vinícius da Hora de Castro\desafio_backend_sprint1_Vinícius da Hora de Castro\obj\Debug\net10.0\desafio_backend_sprint1_Vinícius da Hora de Castro.genruntimeconfig.cache
-C:\Users\232.001625\source\repos\desafio_backend_sprint1_Vinícius da Hora de Castro\desafio_backend_sprint1_Vinícius da Hora de Castro\obj\Debug\net10.0\ref\desafio_backend_sprint1_Vinícius da Hora de Castro.dll
-C:\Users\Cliente\source\repos\Desafio-Backend-Sprint1\desafio_backend_sprint1_Vinícius da Hora de Castro\bin\Debug\net10.0\desafio_backend_sprint1_Vinícius da Hora de Castro.exe
-C:\Users\Cliente\source\repos\Desafio-Backend-Sprint1\desafio_backend_sprint1_Vinícius da Hora de Castro\bin\Debug\net10.0\desafio_backend_sprint1_Vinícius da Hora de Castro.deps.json
-C:\Users\Cliente\source\repos\Desafio-Backend-Sprint1\desafio_backend_sprint1_Vinícius da Hora de Castro\bin\Debug\net10.0\desafio_backend_sprint1_Vinícius da Hora de Castro.runtimeconfig.json
-C:\Users\Cliente\source\repos\Desafio-Backend-Sprint1\desafio_backend_sprint1_Vinícius da Hora de Castro\bin\Debug\net10.0\desafio_backend_sprint1_Vinícius da Hora de Castro.dll
-C:\Users\Cliente\source\repos\Desafio-Backend-Sprint1\desafio_backend_sprint1_Vinícius da Hora de Castro\bin\Debug\net10.0\desafio_backend_sprint1_Vinícius da Hora de Castro.pdb
-C:\Users\Cliente\source\repos\Desafio-Backend-Sprint1\desafio_backend_sprint1_Vinícius da Hora de Castro\obj\Debug\net10.0\desafio_backend_sprint1_Vinícius da Hora de Castro.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Cliente\source\repos\Desafio-Backend-Sprint1\desafio_backend_sprint1_Vinícius da Hora de Castro\obj\Debug\net10.0\desafio_backend_sprint1_Vinícius da Hora de Castro.AssemblyInfoInputs.cache
-C:\Users\Cliente\source\repos\Desafio-Backend-Sprint1\desafio_backend_sprint1_Vinícius da Hora de Castro\obj\Debug\net10.0\desafio_backend_sprint1_Vinícius da Hora de Castro.AssemblyInfo.cs
-C:\Users\Cliente\source\repos\Desafio-Backend-Sprint1\desafio_backend_sprint1_Vinícius da Hora de Castro\obj\Debug\net10.0\desafio_backend_sprint1_Vinícius da Hora de Castro.csproj.CoreCompileInputs.cache
-C:\Users\Cliente\source\repos\Desafio-Backend-Sprint1\desafio_backend_sprint1_Vinícius da Hora de Castro\obj\Debug\net10.0\desafio_backend_sprint1_Vinícius da Hora de Castro.sourcelink.json
-C:\Users\Cliente\source\repos\Desafio-Backend-Sprint1\desafio_backend_sprint1_Vinícius da Hora de Castro\obj\Debug\net10.0\desafio_backend_sprint1_Vinícius da Hora de Castro.dll
-C:\Users\Cliente\source\repos\Desafio-Backend-Sprint1\desafio_backend_sprint1_Vinícius da Hora de Castro\obj\Debug\net10.0\refint\desafio_backend_sprint1_Vinícius da Hora de Castro.dll
-C:\Users\Cliente\source\repos\Desafio-Backend-Sprint1\desafio_backend_sprint1_Vinícius da Hora de Castro\obj\Debug\net10.0\desafio_backend_sprint1_Vinícius da Hora de Castro.pdb
-C:\Users\Cliente\source\repos\Desafio-Backend-Sprint1\desafio_backend_sprint1_Vinícius da Hora de Castro\obj\Debug\net10.0\desafio_backend_sprint1_Vinícius da Hora de Castro.genruntimeconfig.cache
-C:\Users\Cliente\source\repos\Desafio-Backend-Sprint1\desafio_backend_sprint1_Vinícius da Hora de Castro\obj\Debug\net10.0\ref\desafio_backend_sprint1_Vinícius da Hora de Castro.dll
-C:\Users\Cliente\source\repos\Desafio-Backend-Sprint1\desafio_backend_sprint1_Vinícius da Hora de Castro\obj\Debug\net10.0\desafio_.6600CF63.Up2Date
-C:\Users\232.001625\source\repos\Desafio-Backend-Sprint1\desafio_backend_sprint1_Vinícius da Hora de Castro\bin\Debug\net10.0\desafio_backend_sprint1_Vinícius da Hora de Castro.exe
-C:\Users\232.001625\source\repos\Desafio-Backend-Sprint1\desafio_backend_sprint1_Vinícius da Hora de Castro\bin\Debug\net10.0\desafio_backend_sprint1_Vinícius da Hora de Castro.deps.json
-C:\Users\232.001625\source\repos\Desafio-Backend-Sprint1\desafio_backend_sprint1_Vinícius da Hora de Castro\bin\Debug\net10.0\desafio_backend_sprint1_Vinícius da Hora de Castro.runtimeconfig.json
-C:\Users\232.001625\source\repos\Desafio-Backend-Sprint1\desafio_backend_sprint1_Vinícius da Hora de Castro\bin\Debug\net10.0\desafio_backend_sprint1_Vinícius da Hora de Castro.dll
-C:\Users\232.001625\source\repos\Desafio-Backend-Sprint1\desafio_backend_sprint1_Vinícius da Hora de Castro\bin\Debug\net10.0\desafio_backend_sprint1_Vinícius da Hora de Castro.pdb
-C:\Users\232.001625\source\repos\Desafio-Backend-Sprint1\desafio_backend_sprint1_Vinícius da Hora de Castro\obj\Debug\net10.0\desafio_backend_sprint1_Vinícius da Hora de Castro.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\232.001625\source\repos\Desafio-Backend-Sprint1\desafio_backend_sprint1_Vinícius da Hora de Castro\obj\Debug\net10.0\desafio_backend_sprint1_Vinícius da Hora de Castro.AssemblyInfoInputs.cache
-C:\Users\232.001625\source\repos\Desafio-Backend-Sprint1\desafio_backend_sprint1_Vinícius da Hora de Castro\obj\Debug\net10.0\desafio_backend_sprint1_Vinícius da Hora de Castro.AssemblyInfo.cs
-C:\Users\232.001625\source\repos\Desafio-Backend-Sprint1\desafio_backend_sprint1_Vinícius da Hora de Castro\obj\Debug\net10.0\desafio_backend_sprint1_Vinícius da Hora de Castro.csproj.CoreCompileInputs.cache
-C:\Users\232.001625\source\repos\Desafio-Backend-Sprint1\desafio_backend_sprint1_Vinícius da Hora de Castro\obj\Debug\net10.0\desafio_backend_sprint1_Vinícius da Hora de Castro.sourcelink.json
-C:\Users\232.001625\source\repos\Desafio-Backend-Sprint1\desafio_backend_sprint1_Vinícius da Hora de Castro\obj\Debug\net10.0\desafio_backend_sprint1_Vinícius da Hora de Castro.dll
-C:\Users\232.001625\source\repos\Desafio-Backend-Sprint1\desafio_backend_sprint1_Vinícius da Hora de Castro\obj\Debug\net10.0\refint\desafio_backend_sprint1_Vinícius da Hora de Castro.dll
-C:\Users\232.001625\source\repos\Desafio-Backend-Sprint1\desafio_backend_sprint1_Vinícius da Hora de Castro\obj\Debug\net10.0\desafio_backend_sprint1_Vinícius da Hora de Castro.pdb
-C:\Users\232.001625\source\repos\Desafio-Backend-Sprint1\desafio_backend_sprint1_Vinícius da Hora de Castro\obj\Debug\net10.0\desafio_backend_sprint1_Vinícius da Hora de Castro.genruntimeconfig.cache
-C:\Users\232.001625\source\repos\Desafio-Backend-Sprint1\desafio_backend_sprint1_Vinícius da Hora de Castro\obj\Debug\net10.0\ref\desafio_backend_sprint1_Vinícius da Hora de Castro.dll
+C:\Projetos\Desafio-Backend-Sprint1\desafio_backend_sprint1_Vinícius da Hora de Castro\bin\Debug\net10.0\desafio_backend_sprint1_Vinícius da Hora de Castro.exe
+C:\Projetos\Desafio-Backend-Sprint1\desafio_backend_sprint1_Vinícius da Hora de Castro\bin\Debug\net10.0\desafio_backend_sprint1_Vinícius da Hora de Castro.deps.json
+C:\Projetos\Desafio-Backend-Sprint1\desafio_backend_sprint1_Vinícius da Hora de Castro\bin\Debug\net10.0\desafio_backend_sprint1_Vinícius da Hora de Castro.runtimeconfig.json
+C:\Projetos\Desafio-Backend-Sprint1\desafio_backend_sprint1_Vinícius da Hora de Castro\bin\Debug\net10.0\desafio_backend_sprint1_Vinícius da Hora de Castro.dll
+C:\Projetos\Desafio-Backend-Sprint1\desafio_backend_sprint1_Vinícius da Hora de Castro\bin\Debug\net10.0\desafio_backend_sprint1_Vinícius da Hora de Castro.pdb
+C:\Projetos\Desafio-Backend-Sprint1\desafio_backend_sprint1_Vinícius da Hora de Castro\obj\Debug\net10.0\desafio_backend_sprint1_Vinícius da Hora de Castro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Desafio-Backend-Sprint1\desafio_backend_sprint1_Vinícius da Hora de Castro\obj\Debug\net10.0\desafio_backend_sprint1_Vinícius da Hora de Castro.AssemblyInfoInputs.cache
+C:\Projetos\Desafio-Backend-Sprint1\desafio_backend_sprint1_Vinícius da Hora de Castro\obj\Debug\net10.0\desafio_backend_sprint1_Vinícius da Hora de Castro.AssemblyInfo.cs
+C:\Projetos\Desafio-Backend-Sprint1\desafio_backend_sprint1_Vinícius da Hora de Castro\obj\Debug\net10.0\desafio_backend_sprint1_Vinícius da Hora de Castro.csproj.CoreCompileInputs.cache
+C:\Projetos\Desafio-Backend-Sprint1\desafio_backend_sprint1_Vinícius da Hora de Castro\obj\Debug\net10.0\desafio_backend_sprint1_Vinícius da Hora de Castro.sourcelink.json
+C:\Projetos\Desafio-Backend-Sprint1\desafio_backend_sprint1_Vinícius da Hora de Castro\obj\Debug\net10.0\desafio_backend_sprint1_Vinícius da Hora de Castro.dll
+C:\Projetos\Desafio-Backend-Sprint1\desafio_backend_sprint1_Vinícius da Hora de Castro\obj\Debug\net10.0\refint\desafio_backend_sprint1_Vinícius da Hora de Castro.dll
+C:\Projetos\Desafio-Backend-Sprint1\desafio_backend_sprint1_Vinícius da Hora de Castro\obj\Debug\net10.0\desafio_backend_sprint1_Vinícius da Hora de Castro.pdb
+C:\Projetos\Desafio-Backend-Sprint1\desafio_backend_sprint1_Vinícius da Hora de Castro\obj\Debug\net10.0\desafio_backend_sprint1_Vinícius da Hora de Castro.genruntimeconfig.cache
+C:\Projetos\Desafio-Backend-Sprint1\desafio_backend_sprint1_Vinícius da Hora de Castro\obj\Debug\net10.0\ref\desafio_backend_sprint1_Vinícius da Hora de Castro.dll
