@@ -29,7 +29,7 @@ namespace desafio_backend_sprint1_Vinícius_da_Hora_de_Castro
             }
             else
             {
-                Console.WriteLine($"{Nome} falhou em lançar um feitiço!");
+                Console.WriteLine($"{Nome} falhou em lançar um feitiço! Precisa estudar mais.");
                 Console.WriteLine(@"
     ＜~ヽ、
   　/　　＼
